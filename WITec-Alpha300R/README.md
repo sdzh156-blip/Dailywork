@@ -1,6 +1,7 @@
 # WITec Alpha300R / Control FIVE / Project FIVE 系统课程
 
-> 说明：此课程按 **Control FIVE + Project FIVE** 及用户实机配置设计。每个操作都应经过仪器管理员授权；本仓库不包含内部 SOP 的原文或扫描件。\n
+> 说明：此课程按 **Control FIVE + Project FIVE** 及用户实机配置设计。每个操作都应经过仪器管理员授权；本仓库不包含内部 SOP 的原文或扫描件。
+
 ## 课程定位
 
 12 周 / 48 节核心课 + 12 次周验收，目标是理解 **拉曼物理 → 仪器结构和光路 → Control FIVE 界面全部实际可见选项 → 单谱/线扫/Mapping → Project FIVE 光谱与拉曼图像处理 → Raman TV、Filter、Fitting、Analyze、Cluster、PCA、NMF → 数据解读、质量控制与排故**。
